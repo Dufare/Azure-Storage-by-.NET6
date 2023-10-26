@@ -1,0 +1,38 @@
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\appsettings.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Storage Azure.exe
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Storage Azure.deps.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Storage Azure.runtimeconfig.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Storage Azure.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Storage Azure.pdb
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.csproj.AssemblyReference.cache
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.AssemblyInfoInputs.cache
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.AssemblyInfo.cs
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.csproj.CoreCompileInputs.cache
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets\msbuild.Storage Azure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets\msbuild.build.Storage Azure.props
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Storage Azure.props
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Storage Azure.props
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\scopedcss\bundle\Storage Azure.styles.css
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.csproj.CopyComplete
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\refint\Storage Azure.dll
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.pdb
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\Storage Azure.genruntimeconfig.cache
+C:\Users\jayesh.dufare\Desktop\Storage Azure\obj\Debug\net6.0\ref\Storage Azure.dll
